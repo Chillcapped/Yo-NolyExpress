@@ -1,0 +1,11 @@
+{
+  "name": "yo-noly-express",
+  "version": "1.0.0",
+  "description": "Yoman Generator for Node.js/ Polymer/ Express.js Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
